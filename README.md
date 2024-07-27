@@ -1,4 +1,5 @@
 # Project_Redbus
 Redbus Data Scraping with Selenium &amp; Dynamic Filtering using Streamlit
 The provided code demonstrates a comprehensive solution for scraping bus route data from Redbus using Selenium, storing the data in a MySQL database, and visualizing the data with a Streamlit application. It begins by navigating through multiple pages on Redbus, extracting bus route links and associated details, and consolidating the information into a pandas DataFrame. The DataFrame is then saved as a CSV file, which is subsequently read and processed to ensure correct formatting for insertion into a MySQL database. A Streamlit application is developed to filter and display the bus route data based on user-defined criteria such as bus type, route, price range, star rating, and seat availability. The application dynamically generates SQL queries based on the selected filters and displays the results in an interactive and user-friendly interface. This project highlights skills in web scraping, data processing, database management, and interactive data visualization.
-![Screenshot (33)](https://github.com/user-attachments/assets/e678e42a-e1e9-4e87-836a-f20e16fc084e)
+![Screenshot (34)](https://github.com/user-attachments/assets/a0a4372a-f04a-4ad2-b3dc-71a09cb548b7)
+
